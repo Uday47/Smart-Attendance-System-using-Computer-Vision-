@@ -10,7 +10,7 @@ Powerpoint Presenation: https://github.com/Uday47/Smart-Attendance-System-using-
 2. Run from terminal
 ```streamlit run smartattend.py```
 
-####Screenshots from the demo
+####Screenshots from the demo####
 
 Detects Not-Live feed and prompts with a warning
 
