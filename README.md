@@ -9,3 +9,6 @@ Powerpoint Presenation: https://github.com/Uday47/Smart-Attendance-System-using-
 1. Install requirements from requirements.txt file
 2. Run from terminal
 ```streamlit run smartattend.py```
+
+
+![alt text](https://www.youtube.com/watch?v=8gzoeKq16gc&ab_channel=CMRCollegeOfEngineering%26Technology&t=1h1m40s)
