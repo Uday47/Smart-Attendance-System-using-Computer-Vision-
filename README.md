@@ -3,4 +3,5 @@ A smart attendance system using which the user can feed the system with a live s
 
 
 1. Install requirements from requirements.txt file
-2. Run streamlit run smartattend.py from terminal
+2. Run from terminal
+```streamlit run smartattend.py```
