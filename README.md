@@ -10,11 +10,11 @@ Powerpoint Presenation: https://github.com/Uday47/Smart-Attendance-System-using-
 2. Run from terminal
 ```streamlit run smartattend.py```
 
-__Screenshots from the demo__
+##Screenshots from the demo
 
-Detects Not-Live feed and stops prediction
+__Detects Not-Live feed and stops prediction__
 
 ![alt text](https://github.com/Uday47/Smart-Attendance-System-using-Computer-Vision-/blob/main/not%20live.png)
 
-Detects Live feed and resumes prediction
+__Detects Live feed and resumes prediction__
 ![alt text](https://github.com/Uday47/Smart-Attendance-System-using-Computer-Vision-/blob/main/opencv_frame_0.png)
