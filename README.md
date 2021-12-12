@@ -11,4 +11,4 @@ Powerpoint Presenation: https://github.com/Uday47/Smart-Attendance-System-using-
 ```streamlit run smartattend.py```
 
 
-![alt text](not live.png)
+![alt text](https://github.com/Uday47/Smart-Attendance-System-using-Computer-Vision-/blob/main/not%20live.png)
