@@ -12,6 +12,9 @@ Powerpoint Presenation: https://github.com/Uday47/Smart-Attendance-System-using-
 
 __Screenshots from the demo__
 
-Detects Not-Live feed and prompts with a warning
+Detects Not-Live feed and stops prediction
 
 ![alt text](https://github.com/Uday47/Smart-Attendance-System-using-Computer-Vision-/blob/main/not%20live.png)
+
+Detects Live feed and resumes prediction
+![alt text](https://github.com/Uday47/Smart-Attendance-System-using-Computer-Vision-/blob/main/opencv_frame_0.png)
