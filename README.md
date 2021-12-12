@@ -11,4 +11,4 @@ Powerpoint Presenation: https://github.com/Uday47/Smart-Attendance-System-using-
 ```streamlit run smartattend.py```
 
 
-![alt text](https://www.youtube.com/watch?v=8gzoeKq16gc&ab_channel=CMRCollegeOfEngineering%26Technology&t=1h1m40s)
+![alt text](not live.png)
