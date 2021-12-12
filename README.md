@@ -16,5 +16,5 @@ __Detects Not-Live feed and stops prediction__
 
 ![alt text](https://github.com/Uday47/Smart-Attendance-System-using-Computer-Vision-/blob/main/not%20live.png)
 
-__Detects Live feed and resumes prediction__
+__Detects Live feed and resumes prediction and Check in/out option__
 ![alt text](https://github.com/Uday47/Smart-Attendance-System-using-Computer-Vision-/blob/main/opencv_frame_0.png)
