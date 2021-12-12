@@ -4,6 +4,8 @@ A smart attendance system using which the user can feed the system with a live s
 You can watch our project demo here:
 https://youtu.be/TzxnOmxGgIc?t=3660
 
+Powerpoint Presenation: https://github.com/Uday47/Smart-Attendance-System-using-Computer-Vision-/blob/main/DevJam.pptx
+
 1. Install requirements from requirements.txt file
 2. Run from terminal
 ```streamlit run smartattend.py```
