@@ -2,7 +2,7 @@
 A smart attendance system using which the user can feed the system with a live stream of video and the attendance for that particular audience with an Anti-Spoofing feature.
 
 You can watch our project demo here:
-https://youtu.be/TzxnOmxGgIc?t=3660
+https://www.youtube.com/watch?v=8gzoeKq16gc&ab_channel=CMRCollegeOfEngineering%26Technology
 
 Powerpoint Presenation: https://github.com/Uday47/Smart-Attendance-System-using-Computer-Vision-/blob/main/DevJam.pptx
 
