@@ -1,5 +1,5 @@
 # Smart Attendance System using Computer Vision
-A smart attendance system using which the user can feed the system with a live stream of video and the attendance for that particular audience with an Anti-Spoofing feature.
+An anti-spoof smart attendance system that takes a live stream of video and the attendance for that particular audience is marked in real time.
 
 You can watch our project demo here:
 https://www.youtube.com/watch?v=8gzoeKq16gc&ab_channel=CMRCollegeOfEngineering%26Technology
